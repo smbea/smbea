@@ -3,8 +3,6 @@
 I'm Beatriz. Welcome to my GitHub profile!
 
 
->📍 Located in Porto, Portugal
->
->🎓 Graduating July 2021
+>📍 Located in Berlin, Germany
 >
 >🌐  Checkout my new website [beatrizmendes.me](http://www.beatrizmendes.me/)!
